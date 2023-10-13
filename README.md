@@ -14,4 +14,4 @@ Project Motivation:
 As an accountant and data analyst with a passion for financial data science, I initiated this project to expand my knowledge and skills in this niche and underexplored field. I aimed to deepen my understanding of data science and the financial industry, and gain a broader perspective of the US financial market.
 
 Project Context: 
-- pending -
+- PENDING
